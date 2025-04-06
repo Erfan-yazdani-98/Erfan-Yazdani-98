@@ -1,11 +1,11 @@
 # Hi there, I'm Erfan Yazdani 👋
 
 ## About Me
-I am a Full-Stack Developer based in Rome.
+I am a passionate Full-Stack Developer based in Rome, with expertise in building dynamic, responsive web applications. I enjoy tackling challenges and continuously improving my skills in modern web technologies.
 
 
 ## Projects
-
+I created these following projects from scratch as part of my ongoing journey to refine my skills and create a very simple portfolio that showcases my capabilities in full-stack development.
 ### [flashcard.erfanyazdani-cv.com](http://flashcard.erfanyazdani-cv.com)
 This is a responsive web application designed to help users memorize new words and enhance their vocabulary. Key features include:
 - **Frontend** developed with Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="25" height="25" style="vertical-align: middle;"/>
