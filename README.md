@@ -10,7 +10,7 @@ I am a Full-Stack Developer based in Rome.
 This is a responsive web application designed to help users memorize new words and enhance their vocabulary. Key features include:
 - **Frontend** developed with Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="25" height="25" style="vertical-align: middle;"/>
 - **Backend** powered by Spring Boot <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
-- **Database**: MySQL <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="25" height="25" style="vertical-align: middle;"/>
+- **Database**: MySQL <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="25" height="25" style="vertical-align: middle;"/>
 - **Security**: Implemented JWT for secure authentication and OAuth2 login via Google for added convenience.
 - **Deployment**: Deployed using Docker Compose <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" style="vertical-align: middle;"/>
 - **Project's GitHub Repositories:** **[ Flashcard Frontend ](https://github.com/Erfan-yazdani-98/Flashcard-Frontend)** - **[ Flashcard Backend ](https://github.com/Erfan-yazdani-98/Flashcard-Backend)**
