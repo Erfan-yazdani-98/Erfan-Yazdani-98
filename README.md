@@ -26,9 +26,9 @@ It is a simple responsive web application that simulates an online marketplace. 
 
 
 ## Some Older Projects Available on Google Play <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play" width="25" height="25" style="vertical-align: middle;"/>
-  ### [Cardzone : Hearts Online](http://play.google.com/store/apps/details?id=com.trexgamesstudio.cardzonehearts)
+  ### <img src="https://play-lh.googleusercontent.com/n410wbqCMcGZ3ZWFytQR4JN2RyRii3SliKO978j8_AlE7716Ax6n7VjcNvqdHGS9SYs6=w480-h960" alt="" width="35" height="35" style="vertical-align: middle;"/> [Cardzone : Hearts Online](http://play.google.com/store/apps/details?id=com.trexgamesstudio.cardzonehearts) 
   I developed this game using .NET Core and Unity. <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt=".Net" width="25" height="25" style="vertical-align: middle;"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25" height="25" style="vertical-align: middle;"/> <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="MS SQL" width="25" height="25" style="vertical-align: middle;"/>
-  ### [Mastermind : Code Breaker](http://play.google.com/store/apps/details?id=com.trexgamestudio.codemind)
+  ### <img src="https://play-lh.googleusercontent.com/pr5sjKNQadZMMEJm6T8o-s4yQzNUFmJGWHRyxciZ7bDzHz187eMLA95-iDWGdeTsg8E=w480-h960" alt="" width="35" height="35" style="vertical-align: middle;"/> [Mastermind : Code Breaker](http://play.google.com/store/apps/details?id=com.trexgamestudio.codemind)
   I contributed to the backend of this project. <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt=".Net" width="25" height="25" style="vertical-align: middle;"/> 
 
 
