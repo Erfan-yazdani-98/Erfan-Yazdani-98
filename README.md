@@ -11,18 +11,20 @@ This is a responsive web application designed to help users memorize new words a
 - **Frontend** developed with Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="25" height="25" style="vertical-align: middle;"/>
 - **Backend** powered by Spring Boot <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
 - **Database**: MySQL <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="25" height="25" style="vertical-align: middle;"/>
-- **Security**: Implemented JWT for secure authentication and OAuth2 login via Google for added convenience.
-- **Deployment**: Deployed using Docker Compose <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" style="vertical-align: middle;"/>
+- **Security**: Implemented JWT for secure authentication and OAuth2 login via Google for added convenience. <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" alt="JWT Token" width="25" height="25" style="vertical-align: middle;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" alt="OAuth2" width="25" height="25" style="vertical-align: middle;"/> <img src="https://www.vectorlogo.zone/logos/google/google-tile.svg" alt="Google" width="25" height="25" style="vertical-align: middle;"/>
+- **Deployment**: Deployed using Docker Compose <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="25" height="25" style="vertical-align: center;"/>
 - **Project's GitHub Repositories:** **[ Flashcard Frontend ](https://github.com/Erfan-yazdani-98/Flashcard-Frontend)** - **[ Flashcard Backend ](https://github.com/Erfan-yazdani-98/Flashcard-Backend)**
 
 ### [commerce.erfanyazdani-cv.com](http://commerce.erfanyazdani-cv.com)
 It is a simple responsive web application that simulates an online marketplace. It features:
 - **Frontend** developed with Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="25" height="25" style="vertical-align: middle;"/>
 - **Backend** powered by Spring Boot <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
-- **Database**: PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="25" height="25" style="vertical-align: middle;"/>
+- **Database**: PostgreSQL <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="25" height="25" style="vertical-align: middle;"/>
 - **Security**: Implemented basic security authentication
-- **Deployment**: Deployed using Docker Compose <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" style="vertical-align: middle;"/>
+- **Deployment**: Deployed using Docker Compose <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="25" height="25" style="vertical-align: center;"/>
 - **Project's GitHub Repositories:** **[ MockMarket Frontend ](https://github.com/Erfan-yazdani-98/mockmarket-frontend)** - **[ MockMarket Backend ](https://github.com/Erfan-yazdani-98/mockmarket-backend)**
+
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt=".Net" width="25" height="25" style="vertical-align: middle;"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25" height="25" style="vertical-align: middle;"/> <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="MS SQL" width="25" height="25" style="vertical-align: middle;"/>
 
 
 
